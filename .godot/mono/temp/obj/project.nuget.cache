@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9edMRijCoCZwSblNg2VXEt55icIxjoesW0DDmMMzDNiM7yra2s6/IWffxBw3Ow38zED13DmnmGnHRvXoNjyZA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\godot-dungeon-rpg-class\\godot-dungeon-rpg-class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isxia\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\isxia\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\isxia\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

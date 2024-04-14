@@ -1,0 +1,31 @@
+[gd_scene load_steps=8 format=3 uid="uid://bswlj1vc1qeph"]
+
+[ext_resource type="PackedScene" uid="uid://dkd2qkkdluosh" path="res://Assets/Models/Dungeon/gltf/floor_tile_small.gltf.glb" id="1_rfhco"]
+[ext_resource type="PackedScene" uid="uid://crchmafje5h65" path="res://Assets/Models/Dungeon/gltf/wall.gltf.glb" id="2_lo02s"]
+[ext_resource type="PackedScene" uid="uid://cb6ki2klmt0v7" path="res://Assets/Models/Dungeon/gltf/stairs_wood_decorated.gltf.glb" id="3_l13eu"]
+[ext_resource type="PackedScene" uid="uid://c8cwufywtleek" path="res://Assets/Models/Dungeon/gltf/wall_corner.gltf.glb" id="4_8c6g3"]
+[ext_resource type="PackedScene" uid="uid://cuskw12y7iu4f" path="res://Assets/Models/Dungeon/gltf/wall_Tsplit.gltf.glb" id="5_26tq1"]
+[ext_resource type="PackedScene" uid="uid://bjlxpuhinh6ak" path="res://Assets/Models/Dungeon/gltf/wall_open_scaffold.gltf.glb" id="6_agdfb"]
+[ext_resource type="PackedScene" uid="uid://s2w8bsschbao" path="res://Assets/Models/Dungeon/gltf/wall_doorway_scaffold.glb" id="7_a0sg4"]
+
+[node name="Tiles" type="Node3D"]
+
+[node name="floor_tile_small_gltf" parent="." instance=ExtResource("1_rfhco")]
+
+[node name="wall_gltf" parent="." instance=ExtResource("2_lo02s")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.22757, 0, 0)
+
+[node name="stairs_wood_decorated_gltf" parent="." instance=ExtResource("3_l13eu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.58169, 0, 0)
+
+[node name="wall_corner_gltf" parent="." instance=ExtResource("4_8c6g3")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.96401, 0, 0)
+
+[node name="wall_Tsplit_gltf" parent="." instance=ExtResource("5_26tq1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.49961, 0, 0)
+
+[node name="wall_open_scaffold_gltf" parent="." instance=ExtResource("6_agdfb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.251537, 0, 11.8278)
+
+[node name="wall_doorway_scaffold2" parent="." instance=ExtResource("7_a0sg4")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -7.99683, 0, 12.4554)

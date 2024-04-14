@@ -1,0 +1,17 @@
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\godot-dungeon-rpg-class.deps.json
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\godot-dungeon-rpg-class.runtimeconfig.json
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\godot-dungeon-rpg-class.dll
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\godot-dungeon-rpg-class.pdb
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.csproj.AssemblyReference.cache
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.AssemblyInfoInputs.cache
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.AssemblyInfo.cs
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.csproj.CoreCompileInputs.cache
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.csproj.CopyComplete
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.dll
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\refint\godot-dungeon-rpg-class.dll
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.pdb
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\godot-dungeon-rpg-class.genruntimeconfig.cache
+D:\Projetos\godot-dungeon-rpg-class\.godot\mono\temp\obj\Debug\ref\godot-dungeon-rpg-class.dll
